@@ -1,0 +1,11 @@
+.fundocolorido{
+    background-image: linear-gradient(#BDFBF4,#D1FBE8,#F7F4DC,#FEE5D7,#FED0D4);
+}
+.icone{
+    object-fit: contain;
+    height: 60px;
+}
+.icone-app{
+    object-fit: contain;
+    height: 40px;
+}
